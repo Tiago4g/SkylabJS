@@ -4,6 +4,7 @@ var endereco = {
   bairro: "Centro", 
   cidade: "São Paulo",
   uf: "SP"
+  
 };
 
 function exerc1(endereco){
